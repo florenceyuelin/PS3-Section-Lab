@@ -1,1 +1,1 @@
-# All materials were used for the course Political Science 3 at UC Berkeley in Spring 2023 (Prof David Broockman, Graduate Student Instructor: Yue Lin)
+## Coding materials used for the course _[Introduction To Empirical Analysis and Quantitative Methods](https://polisci.berkeley.edu/course/introduction-empirical-analysis-and-quantitative-methods-32)_ at UC Berkeley in Spring 2023 (with Prof David Broockman)
